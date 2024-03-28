@@ -1,7 +1,5 @@
 # File yang diabaikan
 
-*.env
-
 # Editor directories and files
 !.vscode/extensions.json
 .idea
